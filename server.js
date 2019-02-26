@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 webPush.setVapidDetails(
   //your email,
   //VAPID_PUBLIC_KEY,
-  // process.env.VAPID_PRIVATE_KEY
+  //VAPID_PRIVATE_KEY
 );
 
 const app = express();
