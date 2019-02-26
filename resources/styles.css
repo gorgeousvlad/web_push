@@ -1,0 +1,6 @@
+.container {
+  min-width: 200px;
+  height: 50px;
+  display: inline-block;
+  position: relative;
+}

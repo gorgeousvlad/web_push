@@ -1,0 +1,9 @@
+.popup {
+  position: relative;
+  margin: auto;
+}
+
+.popup label {
+  margin-right: 10px;
+  display: inline-block;
+}
